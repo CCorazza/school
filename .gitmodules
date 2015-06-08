@@ -1,0 +1,6 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/CCorazza/libft.git
+[submodule "ongoing"]
+	path = ongoing
+	url = https://github.com/CCorazza/ongoing.git
